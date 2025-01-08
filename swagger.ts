@@ -56,7 +56,7 @@ const options: any = {
     
 
 
-    apis: ["./src/routes/**/*.ts","./dist/routes/**/*.js"], 
+    apis: ["./dist/src/Routes/**/*.js"], 
 };
 
 // Initialize swagger-jsdoc
