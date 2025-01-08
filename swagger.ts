@@ -17,6 +17,10 @@ const options: any = {
                 url: "http://localhost:4000",  
                 description: "Local Development Server",
             },
+            {
+                url: "https://test-bej1.onrender.com",  
+                description: "Hosted  Server",
+            },
         ],
         components: {
             schemas: {
